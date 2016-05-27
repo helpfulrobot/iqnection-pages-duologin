@@ -10,8 +10,7 @@
 		}
 	],
 	"require": {
-		"silverstripe/framework": ">=3",
-		"iqnection-pages/basepages":"*"
+		"silverstripe/framework": ">=3"
 	},
 	"extra": {
 		"installer-name": "iq-duologin"
