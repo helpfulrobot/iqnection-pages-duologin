@@ -1,0 +1,7 @@
+---
+Name: douloginroutes
+After: '#adminroutes'
+---
+Director:
+  rules:
+    'DuoAdminSecurity//$Action/$ID/$Name': 'DuoAuthPage_Controller'
